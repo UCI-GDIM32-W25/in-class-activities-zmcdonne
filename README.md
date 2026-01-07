@@ -2,7 +2,7 @@
 # Week 1
 
 ## Activity 1
-- be nicee to the las
+- be nice to the la's
 - start early
 - go to tech support
 - playtest your build
