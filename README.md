@@ -11,21 +11,21 @@
 - look through the provided documention 
 
 ## Activity 2
--Q1
+- Q1
 10
--Q2
+- Q2
 2
--Q3
+- Q3
 Debug log if the update is wroking
--Q4
+- Q4
 monobehavior
--q5
+- Q5
 do math and prints x = 10 to the consol
--q6
+- Q6
 inputed arguments and parameter for the numbers printed
--q7
+- Q7
 mixing up variable names with offical unity comands
--q8
+- Q8
 change it to the right name _playerTransform
 
 ## Activity 3
