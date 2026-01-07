@@ -11,23 +11,14 @@
 - look through the provided documention 
 
 ## Activity 2
-1,
-10
-2.
-2
-3.
-Debug log if the update is wroking
-4.
-monobehavior
-5.
-do math and prints x = 10 to the consol
-6.
-inputed arguments and parameter for the numbers printed
-7.
-mixing up variable names with offical unity comands
-8.
-change it to the right name _playerTransform
+1. 10
+2. 2
+3. Debug log if the update is working
+4. monobehavior
+5. do math and prints x = 10 to the consol
+6. inputed arguments and parameter for the numbers printed
+7. mixing up variable names with offical unity comands
+8. change it to the right name _playerTransform
 
 ## Activity 3
-link to Activity 3 :
-https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing
+[link to Activity 3 :](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing)
