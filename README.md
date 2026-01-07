@@ -1,5 +1,5 @@
 # GDIM32 In Class Activities
-## Week 1
+# Week 1
 
 ## Activity 1
 - be nicee to the las
