@@ -22,3 +22,9 @@
 
 ## Activity 3
 [link to Activity 3 :](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing)
+
+# Week 1
+
+## Photo
+<img width="547" height="416" alt="Screenshot 2026-01-13 at 11 27 22 PM" src="https://github.com/user-attachments/assets/a6088008-a3c9-477c-a752-6443219603fc" />
+
