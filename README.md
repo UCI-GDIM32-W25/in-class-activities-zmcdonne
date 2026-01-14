@@ -30,5 +30,7 @@
 
 ## Activity 2
 [link to Activity 2](https://github.com/UCI-GDIM32-W25/mg2-zmcdonne/commit/0a38a7510af532f4dad846e6439dc850dd446594)
+
+
 In class today, I worked on putting in the sprites along with their rigid bodies and colliders, and making sure the simple jump function worked. I also started an outline for the coin code, which I am very much looking forward to finishing. For this commit in particular, I am fixing syntax issues such as lowercase errors and mismatched brackets that were bugging my reused code, where it just checks if the penguin is grounded using tags, so that it only jumps then.
 
