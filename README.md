@@ -34,3 +34,10 @@
 
 In class today, I worked on putting in the sprites along with their rigid bodies and colliders, and making sure the simple jump function worked. I also started an outline for the coin code, which I am very much looking forward to finishing. For this commit in particular, I am fixing syntax issues such as lowercase errors and mismatched brackets that were bugging my reused code, where it just checks if the penguin is grounded using tags, so that it only jumps then.
 
+# Week 3
+## Activity 0-2
+Isabel  + Kristin
+
+## Activity 3
+<img width="1105" height="767" alt="Screenshot 2026-01-20 at 11 48 10 PM" src="https://github.com/user-attachments/assets/acafcd0f-56fb-45e5-8cf7-6fa738720b25" />
+
