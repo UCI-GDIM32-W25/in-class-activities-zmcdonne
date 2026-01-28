@@ -40,9 +40,14 @@ Isabel  + Kristin
 
 
 # Week 4
-## Activity 0-2
+## Activity 0
 Isabel  + Kristin
 
-## Activity 3
-<img width="1105" height="767" alt="Screenshot 2026-01-20 at 11 48 10 PM" src="https://github.com/user-attachments/assets/acafcd0f-56fb-45e5-8cf7-6fa738720b25" />
+## Activity 1
+Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
 
+## Activity 2
+<img width="939" height="724" alt="Screenshot 2026-01-27 at 9 46 49 PM" src="https://github.com/user-attachments/assets/76860c92-5a8a-4f94-aa4c-2da0125273e0" />
+
+## Activity 3
+I added pipe sprites and birds. I also got strted on the write screen i wanted and like made the script.
