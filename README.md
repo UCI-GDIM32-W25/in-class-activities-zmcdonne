@@ -38,6 +38,11 @@ In class today, I worked on putting in the sprites along with their rigid bodies
 ## Activity 0-2
 Isabel  + Kristin
 
+
+# Week 4
+## Activity 0-2
+Isabel  + Kristin
+
 ## Activity 3
 <img width="1105" height="767" alt="Screenshot 2026-01-20 at 11 48 10 PM" src="https://github.com/user-attachments/assets/acafcd0f-56fb-45e5-8cf7-6fa738720b25" />
 
