@@ -50,4 +50,6 @@ Add multiple Locator objects to the Scene. What happens to the Locator objects w
 <img width="939" height="724" alt="Screenshot 2026-01-27 at 9 46 49 PM" src="https://github.com/user-attachments/assets/76860c92-5a8a-4f94-aa4c-2da0125273e0" />
 
 ## Activity 3
-I added pipe sprites and birds. I also got strted on the write screen i wanted and like made the script.
+I added pipe sprites and birds. I also got strted on the write screen i wanted and like made the script. 
+[Link to Activity 3](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
+
