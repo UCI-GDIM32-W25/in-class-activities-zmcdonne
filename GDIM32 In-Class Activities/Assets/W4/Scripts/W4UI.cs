@@ -7,6 +7,10 @@ public class W4UI : MonoBehaviour
     [SerializeField] private float _duration;
 
     // add a new method here
+       private void Start()
+    {
+        Locator.Instance.Pigeon.Cooo += HandlePigeonCoo;
+    }
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
