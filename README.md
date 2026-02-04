@@ -65,9 +65,10 @@ I think the designs make sense. If I were building a project, I would probably c
 
 
 ## Activity 2
-In the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
-Model: The data container — for example, the lines of dialogue or game data being stored (often ScriptableObjects) View: The UI and visuals — such as dialogue boxes, sprites, and NPC visuals. Controller: The logic that handles player input — for example, clicking to continue dialogue and controlling how the system progresses. ScriptableObjects can act as the model, because they store game data separately from what the player sees. Unity already shows some separation between components: Views are UI and visual effects. Controllers handle gameplay logic and simulations.
- Models are data containers, separated from visuals.
+Model: EnemyStats,ItemW5Demo2
+View: DialogueBubble,InventoryUI
+Controller:PlayerW5Demo2, EnemyW5Demo2
+
 
 ## Activity 3
 
@@ -85,7 +86,7 @@ Polymorphism for different beat behaviors.
 
 scenario 2: 
  team shooter
-inheritance, state machines, 
+inheritance, state machines. 
 Gameplay controllers to handle logic (damage, shields, abilities).
 Views for UI and visual feedback. model view with the gamedata for diffrent objects. character and abilites stats model, gomeplay code that was carring out thoose abilites in game  would be controller and view and could be ui for that ability and 
 
