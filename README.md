@@ -43,7 +43,7 @@ Isabel  + Kristin
 
 
 ## Activity 0
-Isabel  + Kristin
+
 
 ## Activity 1
 When adding multiple locators to the scene, the program cancels out the scripts of all locator objects but one while the game runs. This happens as a sort of safety net, as I understood it, so that in case someone accidentally adds too many, it doesn’t cause bugs and chaos by unactivating the exess.
@@ -56,4 +56,23 @@ When adding multiple locators to the scene, the program cancels out the scripts 
 I added pipe sprites and bird. I also got started on the scripts I wanted and made the scene more to my liking.
 
 [Link to Activity 3](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
+
+# Week 5
+
+
+## Activity 1
+In your Devlog, answer the following question: what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
+
+
+## Activity 2
+At the end of the activity, answer the following question in your Devlog: in the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
+
+## Activity 3
+In your Devlog, write down notes for your answers for all 3 scenarios.
+
+## Activity 4
+Attendance: Isabel, Kristin and me 
+
+[Link to Activity proposal draft document](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
+
 
