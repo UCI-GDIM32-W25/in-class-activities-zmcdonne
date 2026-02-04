@@ -38,6 +38,22 @@ In class today, I worked on putting in the sprites along with their rigid bodies
 ## Activity 0-2
 Isabel  + Kristin
 
+
+# Week 4
+
+
+## Activity 0
+Isabel  + Kristin
+
+## Activity 1
+When adding multiple locators to the scene, the program cancels out the scripts of all locator objects but one while the game runs. This happens as a sort of safety net, as I understood it, so that in case someone accidentally adds too many, it doesn’t cause bugs and chaos by unactivating the exess.
+
+
+## Activity 2
+<img width="939" height="724" alt="Screenshot 2026-01-27 at 9 46 49 PM" src="https://github.com/user-attachments/assets/76860c92-5a8a-4f94-aa4c-2da0125273e0" />
+
 ## Activity 3
-<img width="1105" height="767" alt="Screenshot 2026-01-20 at 11 48 10 PM" src="https://github.com/user-attachments/assets/acafcd0f-56fb-45e5-8cf7-6fa738720b25" />
+I added pipe sprites and bird. I also got started on the scripts I wanted and made the scene more to my liking.
+
+[Link to Activity 3](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
 
