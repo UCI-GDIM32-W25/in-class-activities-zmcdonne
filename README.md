@@ -61,18 +61,42 @@ I added pipe sprites and bird. I also got started on the scripts I wanted and ma
 
 
 ## Activity 1
-In your Devlog, answer the following question: what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
+I think the designs make sense. If I were building a project, I would probably choose a similar method because I don’t have a better idea for handling data that multiple classes might use, that was until we learned about scriptable objects in class today.
 
 
 ## Activity 2
-At the end of the activity, answer the following question in your Devlog: in the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
+In the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
+Model: The data container — for example, the lines of dialogue or game data being stored (often ScriptableObjects) View: The UI and visuals — such as dialogue boxes, sprites, and NPC visuals. Controller: The logic that handles player input — for example, clicking to continue dialogue and controlling how the system progresses. ScriptableObjects can act as the model, because they store game data separately from what the player sees. Unity already shows some separation between components: Views are UI and visual effects. Controllers handle gameplay logic and simulations.
+ Models are data containers, separated from visuals.
 
 ## Activity 3
-In your Devlog, write down notes for your answers for all 3 scenarios.
+
+
+Scenario 1:
+Rhythm Game Architecture
+We could use ScriptableObjects to represent beats
+Each ScriptableObject and prefab could store:
+ Timing (when the beat appears),The key to press, The screen position, The sprite or visual representation.
+Beats could be implemented using inheritance and polymorphism:
+A base abstract Beat class, Derived classes for different beat types (normal beats, hold beats, special beats).
+Prefabs could be used for visuals, with ScriptableObjects controlling tunable data like spawn intervals and timing windows.
+
+Polymorphism for different beat behaviors.
+
+scenario 2: 
+ team shooter
+inheritance, state machines, 
+Gameplay controllers to handle logic (damage, shields, abilities).
+Views for UI and visual feedback. model view with the gamedata for diffrent objects. character and abilites stats model, gomeplay code that was carring out thoose abilites in game  would be controller and view and could be ui for that ability and 
+
+scenario 3:
+farming simulation
+state machine for state of growth and state machines for animation, 2d player has animation in state machine and diffrent object atrributes get get their diffrent effects for farming through scriptable objects. 
+
 
 ## Activity 4
 Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
 
-[Link to Activity proposal draft document](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
+[Link to Activity proposal draft document]([https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0))
 
 
