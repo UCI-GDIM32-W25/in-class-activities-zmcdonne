@@ -71,7 +71,7 @@ At the end of the activity, answer the following question in your Devlog: in the
 In your Devlog, write down notes for your answers for all 3 scenarios.
 
 ## Activity 4
-Attendance: Isabel, Kristin and me 
+Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
 
 [Link to Activity proposal draft document](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
 
