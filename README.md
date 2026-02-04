@@ -65,9 +65,15 @@ I think the designs make sense. If I were building a project, I would probably c
 
 
 ## Activity 2
-Model: EnemyStats,ItemW5Demo2
-View: DialogueBubble,InventoryUI
-Controller:PlayerW5Demo2, EnemyW5Demo2
+Model:
+
+EnemyStats,ItemW5Demo2
+
+View: 
+DialogueBubble,InventoryUI
+
+Controller:
+PlayerW5Demo2, EnemyW5Demo2
 
 
 ## Activity 3
