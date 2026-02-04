@@ -98,5 +98,7 @@ state machine for state of growth and state machines for animation, 2d player ha
 Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
 
 [Link to Activity proposal draft document](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0)
+)
+
 
 
