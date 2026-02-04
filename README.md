@@ -66,7 +66,6 @@ I think the designs make sense. If I were building a project, I would probably c
 
 ## Activity 2
 Model:
-
 EnemyStats,ItemW5Demo2
 
 View: 
@@ -86,15 +85,13 @@ Each ScriptableObject and prefab could store:
  Timing (when the beat appears),The key to press, The screen position, The sprite or visual representation.
 Beats could be implemented using inheritance and polymorphism:
 A base abstract Beat class, Derived classes for different beat types (normal beats, hold beats, special beats).
-Prefabs could be used for visuals, with ScriptableObjects controlling tunable data like spawn intervals and timing windows.
-
-Polymorphism for different beat behaviors.
+Prefabs could be used for visuals, with ScriptableObjects controlling tunable data like spawn intervals and timing windows.Polymorphism for different beat behaviors.
 
 scenario 2: 
  team shooter
 inheritance, state machines. 
 Gameplay controllers to handle logic (damage, shields, abilities).
-Views for UI and visual feedback. model view with the gamedata for diffrent objects. character and abilites stats model, gomeplay code that was carring out thoose abilites in game  would be controller and view and could be ui for that ability and 
+Views for UI and visual feedback. model view with the gamedata for diffrent objects. character and abilites stats model, gomeplay code that was carring out thoose abilites in game  would be controller and view and could be ui for that ability
 
 scenario 3:
 farming simulation
