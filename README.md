@@ -43,7 +43,7 @@ Isabel  + Kristin
 
 
 ## Activity 0
-Isabel  + Kristin
+
 
 ## Activity 1
 When adding multiple locators to the scene, the program cancels out the scripts of all locator objects but one while the game runs. This happens as a sort of safety net, as I understood it, so that in case someone accidentally adds too many, it doesn’t cause bugs and chaos by unactivating the exess.
@@ -56,4 +56,66 @@ When adding multiple locators to the scene, the program cancels out the scripts 
 I added pipe sprites and bird. I also got started on the scripts I wanted and made the scene more to my liking.
 
 [Link to Activity 3](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884)
+
+# Week 5
+
+
+## Activity 1
+I think the designs make sense. If I were building a project, I would probably choose a similar method because I don’t have a better idea for handling data that multiple classes might use, that was until we learned about scriptable objects in class today.
+
+
+## Activity 2
+Model:
+EnemyStats,ItemW5Demo2
+
+View: 
+DialogueBubble,InventoryUI
+
+Controller:
+PlayerW5Demo2, EnemyW5Demo2
+
+
+## Activity 3
+
+
+Scenario 1:
+Rhythm Game Architecture
+We could use ScriptableObjects to represent beats
+Each ScriptableObject and prefab could store:
+ Timing (when the beat appears),The key to press, The screen position, The sprite or visual representation.
+Beats could be implemented using inheritance and polymorphism:
+A base abstract Beat class, Derived classes for different beat types (normal beats, hold beats, special beats).
+Prefabs could be used for visuals, with ScriptableObjects controlling tunable data like spawn intervals and timing windows.Polymorphism for different beat behaviors.
+
+scenario 2: 
+ team shooter
+inheritance, state machines. 
+Gameplay controllers to handle logic (damage, shields, abilities).
+Views for UI and visual feedback. model view with the gamedata for diffrent objects. character and abilites stats model, gomeplay code that was carring out thoose abilites in game  would be controller and view and could be ui for that ability
+
+scenario 3:
+farming simulation
+state machine for state of growth and state machines for animation, 2d player has animation in state machine and diffrent object atrributes get get their diffrent effects for farming through scriptable objects. 
+
+
+## Activity 4
+Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
+
+[Link to Activity proposal draft document](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0)
+)
+
+# week 6
+
+Talk: Title of talk, Speaker's Name
+
+Notes: Put your notes next. It might be useful to put it in a bullet-point list format. At the very least, your notes should not be a run-on sentence; either make sure you have correct line breaks or list formatting.
+
+## Activity 1
+your notes on how the demo'd tools might be useful for your final project
+
+## Activity 2
+My whole team was at GDW....
+
+[final draft document link](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0)
+
 
