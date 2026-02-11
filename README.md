@@ -282,17 +282,197 @@ Notes:
 - Gamejobs.co, Cracklehq.com, Matthewseiji.itch.io/twwds
 
 
-## Talk: Title of talk, Speaker's Name
+## Talk: Tech artist, Stephen John (Secret door in Irvine )
 
-Notes: Put your notes next. It might be useful to put it in a bullet-point list format. At the very least, your notes should not be a run-on sentence; either make sure you have correct line breaks or list formatting.
+Notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+Tech art well developed and 
+
+Tech art build art pipe line
+
+Makes the artistic process simpler faster , engineer with artist brain , straight forward 
+Removing tech barriers to implementing art in games 
+
+Pipeline 
+Put ideas in and video games comes out
+
+Tech artist worried about each step of that process 
+
+Simpler faster and possible 
+
+Art focus on making art and not wrestling with technology 
+
+Character chart , tools tech art and runtime tech art
+
+Character is rigging and skinning animation tools
+
+So they do the rigging so works like a person
+
+Tools tech art 
+
+Asset management
+
+Art import export workflow
+
+Simplification instead of every devolved needing to know it creates a standard workflow 
+
+Build tools for work flow
+
+Runtime tech art 
+
+Shaders 
+Procedural
+
+Generation
+
+Optimization
+
+Shader 
+Procedural genreation
+
+Optimization
+
+
+About making trade offs for certain things like performance budget for rendering characters vs environment 
+
+
+Either character tech artists or everything else
+
+Or run time tas 
+
+Must work with engineers designers , T shaped mindset 
+
+Narrow range of skills but understand everything else
+
+- Examples of technical art work 
+
+- So do sunderfolk 
+
+- Scene footprints analyzer
+
+- Presents environments by their memory footprint 
+
+- Breaks down the most expensive asset 
+
+- Memory being drowned by environment so making tools for this 
+
+- Finding most problematic scenes 
+
+- Rebaking scenes to have certain light maps 
+
+- Other example 
+
+- Fox data hookup tool kit 
+
+- Hooked up by designers to artists 
+
+- Connection fx to gameplay 
+
+- Limited to begin with 
+
+- Built out an exstenshin for this character and event 
+
+- Scooped to this entire event spawn this event so no need to touch c# script 
+
+- Set of textures define these and modulate the specularity of the character
+
+- Optimization demo here
+
+- Good communicator as a tech artist
+
+- Learning what these problems are as people are not describing the big problem 
+
+- So really you as describing something else
+
+- Divide and conquer bigger problems into smaller problems 
+
+- Need to approach problems they don’t know the solutions for  Easier way to pick one up is writing shaders 
+
+- Fixking problems 
+
+- Exposes you to context 
+
+- And exposes you to tooling aspect 
+
+- Tool development pure engeeering work100 engineering 
+
+- pro. Reid’s jobs the hardest ahhahaha
+
+- Optimization go Reid about it ahhahaha
+
+- Game art optimization 
+
+- Coan.Stephen 
+
+- Profiler in unity 
+
+- Good to check and record performance information about this frame
+
+- CPU memory and so on
+
+- That nible graph 
+
+- A million tringels rendered on this frame
+
+- So this is the bottle neck others are exsperienfign on their machine 
+
+
+- Open up a snapshot in render :9,
+
+- Application between render doc records commands so you can lets you go through object by object and look how frame is rendered
+
+- Looks for rendere that are affecting one 
+
+- Someone duplicated scene and wcaled
+
+- Making people’s workflows easier 
+
+- ( make a quiz for specially 
+
+- Get an asset off the unity store and optimize it  Or a functionality in unity you wish worked differently 
+
+- Try to dip into proseduare 
+
+- Learn how to learn
+
+- Guilty guild
+
+- Technical buget
+
+- Gpu 
+
+- Look development heavily involved with 
+
+- Procecleal 
+
+- Had someone else felt with this before and did they document how pick other people’s brains 
+
+- Rune time iq 
+
+- Can we purchase this do they need to be modified 
+
+- Teach look up papers 
+
+- And see what to modefied
 
 
 ## Activity 1
-The demo tools I took a look at were the gizmo, profiler, and breakpoint one but had a hard time figuring out usage from script alone, I think i understood them from prelearning slides so me and my teamates were gonna practice togehter outside of class.
+The demo tools I took a look at were the Gizmo, Profiler, and Breakpoint one but had a hard time figuring out usage from script alone. I think i understood them from prelearning slides so my teamates were gonna practice togehter outside of class.
 
 ## Activity 2
 My whole team was at GDW....
 
-[final draft document link](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0)
+[final draft document link](https://docs.google.com/document/d/1feAz1l25pgZegPoBuH0r0d7QIG4UUXJjzvnXaiCcNWw/edit?tab=t.0)
 
 
