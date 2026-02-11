@@ -104,5 +104,18 @@ Attendance: Isabel Rose Matsuno, Kristian Zhang and me
 [Link to Activity proposal draft document](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0)
 )
 
+# week 6
+
+Talk: Title of talk, Speaker's Name
+
+Notes: Put your notes next. It might be useful to put it in a bullet-point list format. At the very least, your notes should not be a run-on sentence; either make sure you have correct line breaks or list formatting.
+
+## Activity 1
+your notes on how the demo'd tools might be useful for your final project
+
+## Activity 2
+My whole team was at GDW....
+
+[final draft document link](https://github.com/UCI-GDIM32-W25/HW4/commit/3bf2f2fd0fa8949973508d488709813908af0884](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?tab=t.0)
 
 
