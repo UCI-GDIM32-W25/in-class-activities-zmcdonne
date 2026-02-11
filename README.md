@@ -285,75 +285,65 @@ Notes:
 ## Talk: Tech artist, Stephen John (Secret door in Irvine )
 
 Notes: 
+- Tech art well developed and 
 
+- Tech art build art pipe line
 
+- Makes the artistic process simpler faster , engineer with artist brain , straight forward 
 
+- Removing tech barriers to implementing art in games 
 
+- Pipeline 
 
+- Put ideas in and video games comes out
 
+- Tech artist worried about each step of that process 
 
+- Simpler faster and possible 
 
+- Art focus on making art and not wrestling with technology 
 
+- Character chart , tools tech art and runtime tech art
 
+- Character is rigging and skinning animation tools
 
+- So they do the rigging so works like a person
 
-Tech art well developed and 
+- Tools tech art 
 
-Tech art build art pipe line
+- Asset management
 
-Makes the artistic process simpler faster , engineer with artist brain , straight forward 
-Removing tech barriers to implementing art in games 
+- Art import export workflow
 
-Pipeline 
-Put ideas in and video games comes out
+- Simplification instead of every devolved needing to know it creates a standard workflow 
 
-Tech artist worried about each step of that process 
+- Build tools for work flow
 
-Simpler faster and possible 
+- Runtime tech art 
 
-Art focus on making art and not wrestling with technology 
+- Shaders
+- 
+- Procedural
 
-Character chart , tools tech art and runtime tech art
+- Generation
 
-Character is rigging and skinning animation tools
+- Optimization
 
-So they do the rigging so works like a person
+- Shader 
 
-Tools tech art 
+- Procedural genreation
 
-Asset management
+- Optimization
 
-Art import export workflow
+- About making trade offs for certain things like performance budget for rendering characters vs environment 
 
-Simplification instead of every devolved needing to know it creates a standard workflow 
+- Either character tech artists or everything else
 
-Build tools for work flow
+- Or run time tas 
 
-Runtime tech art 
+- Must work with engineers designers , T shaped mindset 
 
-Shaders 
-Procedural
-
-Generation
-
-Optimization
-
-Shader 
-Procedural genreation
-
-Optimization
-
-
-About making trade offs for certain things like performance budget for rendering characters vs environment 
-
-
-Either character tech artists or everything else
-
-Or run time tas 
-
-Must work with engineers designers , T shaped mindset 
-
-Narrow range of skills but understand everything else
+- Narrow range of skills but understand everything else
 
 - Examples of technical art work 
 
