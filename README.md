@@ -108,7 +108,7 @@ Attendance: Isabel Rose Matsuno, Kristian Zhang and me
 
 ## GDW activity alternative
 
-# Talk: (Senior Narrative Writer), Cory
+## Talk: (Senior Narrative Writer), Cory
 
 Notes:
 - Voice over direction , ui test , cinematic and mission dialogue , internal , plot and character arc , world building and lore 
