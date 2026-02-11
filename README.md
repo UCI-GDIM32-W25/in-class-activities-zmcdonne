@@ -107,219 +107,182 @@ Attendance: Isabel Rose Matsuno, Kristian Zhang and me
 # week 6
 
 ## GDW activity alternative
-Talk: (Senior Narrative Writer), Cory( I was 2 minutes late and did not see the title)
+
+# Talk: (Senior Narrative Writer), Cory
 
 Notes:
--Voice over direction , ui test , cinematic and mission dialogue , internal , plot and character arc , world building and lore 
+- Voice over direction , ui test , cinematic and mission dialogue , internal , plot and character arc , world building and lore 
 
 - Writing chaos
 
 - Fact any game gets shipped is kinda a miracle 
 
-Freelance writer 
+- Freelance writer 
 
-Can do multiple jobs 
+- Can do multiple jobs 
 
-In house working on full thing more ownership and influence need to ageee beforehand on multiple projects 
+- In house working on full thing more ownership and influence need to ageee beforehand on multiple projects 
 
-Creative directors get a lot of influence 
+- Creative directors get a lot of influence 
 
+- Preproduction:
+- A lot of meetings with stakeholders 
 
+- High level narrative summary 
 
-Preproduction 
-A lot of meetings with stakeholders 
+- Catchy and entertaining only one everyone reads 
 
+- Not done in a vacuum 
 
-High level narrative summary 
+- Setting and character done with design art and animation 
 
+- Understand the scope 
 
-Catchy and entertaining only one everyone reads 
+- Detailed story line at the end 
 
-Not done in a vacuum 
+- Quests 
 
+- Set pieces 
 
-Setting and character done with design art and animation 
+- Narrative delivery methods 
 
-Understand the scope 
+- How is it gonna be told 
 
-Detailed story line at the end 
+- Consider limitations 
 
-Quests 
-Set pieces 
+- Text data base tools 
 
-Narrative delivery methods 
+- Letting them work just with their skill making process easier ( let them do tough shit too
 
-How is it gonna be told 
-Consider limitations 
+- Not in engine so need pipeline to import this 
 
-Text data base tools 
+- Production:
 
-Letting them work just with their skill making process easier ( let them do tough shit too
+- Write cinematic and mission scripts 
+- In collaboration with level design and leadership 
 
-Not in engine so need pipeline to import this 
+- Working with designer and artists 
 
-Production 
-Write cinematic and mission scripts 
-In collaboration with level design and leadership 
+- Writing is  the easiest to change 
 
-Working with designer and artists 
+- Systematic dialogue triggers file names 
 
-Writing is  the easiest to change 
+- Narrative driven game 
 
+- Like when you do something the npc does it back
 
+- So several type of lines for diffrent interactions 
 
-Systematic dialogue triggers file names 
+- Team know the narrative behind what they are working on
 
-Narrative driven game 
+- Fits in with creative directors goal
 
-Like when you do something the npc does it back
+- Casting and recording at the end of the Production does call out
 
-So several type of lines for diffrent interactions 
+- Air in on recording and motion capture 
 
-Team know the narrative behind what they are working on
+- Bio for the ai , writing trailer 
 
-Fits in with creative directors goal
+- Non dialogue text revisions 
 
-Casting and recording at the end of the
+- Google docs ms office, Excel, Visual scripting , Archweave, Twine , Yarn , Ink inkel for branching dialogue
 
-Production does call out
+- Branching narrative important feature 
 
-Air in on recording and motion capture 
+- Look for work oj another departure 
 
+- Getting email and became assistant producer 
 
-Bio for the ai , writing trailer 
+- In house qa team best , try to look for opportunity’s to interact with the department you want like proof reading stuff they don’t want to do
 
-Non dialogue text revisions 
+-  I’ve taken this thing form start to finish on portfolio with others  So it’s easy to see
 
-Google docs ms office 
+- Keep building a library 
 
-Excel
+- Networking what is networking even about, igda game meet ups 
 
-Visual scripting 
+- Look for discords you would be interested in ( game design production and qa)
 
-Archweave 
-Twine 
-Yarn 
-Ink inkel for branching dialogue
+- Disclaimers still in productions 
 
-Branching narrative important feature 
+- Freelance business model look like
 
+- Story Bible over world atlas 
 
-Look for work oj another departure 
+- Stand out by leaning into your strengths , for game writing good to be broad in talent 
 
-Getting email and became assistant producer 
+- Show you can do a toon of different types of writing 
 
+- Example: cinematic approach to writing 
 
-In house qa team best , try to look for opportunity’s to interact with the department you want like proof reading stuff they don’t want to do
+- More of a cinematic reel for it 
 
+- Finding a voice always ( seems like it is like art like copying ) 
 
-I’ve taken this thing form start to finish on portfolio with others 
+- How to navigate the channel of story Structure being beat by game structure
 
-So it’s easy to see
+- Everything is gonna get shorter in a game
 
+- Into the woods video game structure 
 
-Keep building a library 
+- Structure of meetings, depends on teams 
 
-Networking what is networking even about, igda game meet ups 
+- Concept art every day very informal 
 
-Look for discords you would be interested in ( game design production and qa)
+- Small talk going into- that’s really cool and they would talk about it and have a narrative meeting 
 
+- Talking with design less about specific meetings for flow and making sure that the stuff they wrote works from a pacing standpoint and clarity stand point and 
 
-Disclaimers still in productions 
+- Most interactions with design is done side by side /
 
+- Hey I did this let’s see their implementation of their writing if not in constant contact something going wrong
 
+- When your work has hit this threash hold I’ll pick up the ball and bring it here 
 
-Freelance business model look like
+- Design start off vibe , like we want it to be like this , develop mood and tone broad stroke so for preproduction then turn into cohesive vision 
 
+- Start with whatever is in the driver seat so mostly design what it started with system and narrative design 
 
-Story Bible over world atlas 
+- If the game isn’t fun nobody reads the story 
 
-Stand out by leaning into your strengths , for game writing good to be broad in talent 
+- Not being a shooter is rare but with indie 
 
+- Narrative team proud of not doing that 
 
-Show you can do a toon of different types of writing 
+- Single player route worked with a comic writer super fun, space combat game and instead of flying small ships it’s big ships , feel like 
 
-Example: cinematic approach to writing 
+- Everyone is gonna have a opinion vs when it’s just not like the game they like
 
-More of a cinematic reel for it 
+- ( more gameplay focus might help)
 
-Finding a voice always ( seems like it is like art like copying ) 
+- Keep ideas 
 
+- Acting as a teacher as how your specialty should be working
 
+- ( make a time line of games map)
 
-How to navigate the channel of story Structure being beat by game structure
+- Can have a goal and execution good let everyone know what the goals is
 
-Everything is gonna get shorter in a game
+- How can designers assuring with getting questions across
 
-Into the woods video game structure 
+- Assists both party’w, understanding how those apply to writing and vice versa 
 
-Structure of meetings
-: depends on teams 
+- Working together talking about goals 
 
-Concept art every day very informal 
-Small talk going into- that’s really cool and they would talk about it and have a narrative meeting 
+- Video game storytelling ( skolnick)
 
-Talking with design less about specific meetings for flow and making sure that the stuff they wrote works from a pacing standpoint and clarity stand point and 
+- The game narrative toolbox( heyssner )
 
-Most interactions with design is done side by side /
-Hey I did this let’s see their implementation of their writing if not in constant contact something going wrong
+- On the industry 
 
+- The game writing guide ( megill)
 
-When your work has hit this threash hold I’ll pick up the ball and bring it here 
+- The video game writers guide to surviving an industry that hates you ( Richard dansky)
 
-Design start off vibe , like we want it to be like this , develop mood and tone broad stroke so for preproduction then turn into cohesive vision 
+- Gamejobs.co, Cracklehq.com, Matthewseiji.itch.io/twwds
 
-Start with whatever is in the driver seat so mostly design what it started with system and narrative design 
 
-If the game isn’t fun nobody reads the story 
-
-
-Not being a shooter is rare but with indie 
-
-Narrative team proud of not doing that 
-
-
-Single player route worked with a comic writer super fun, space combat game and instead of flying small ships it’s big ships , feel like 
-
-Everyone is gonna have a opinion vs when it’s just not like the game they like
-
-( more gameplay focus might help)
-
-Keep ideas 
-
-Acting as a teacher as how your specialty should be working
-
-
-( make a time line of games map)
-
-Can have a goal and execution good let everyone know what the goals is
-
-How can designers assuring with getting questions across
-
-Assists both party’w, understanding how those apply to writing and vice versa 
-
-Working together talking about goals 
-
-Video game storytelling ( skolnick)
-The game narrative toolbox( heyssner )
-
-On the industry 
-
-The game writing guide ( megill)
-
-
-The video game writers guide to surviving an industry that hates you ( Richard dansky)
-
-Gamejobs.co
-
-Cracklehq.com
-
-Matthewseiji.itch.io/twwds
-
-
-
-
-Talk: Title of talk, Speaker's Name
+## Talk: Title of talk, Speaker's Name
 
 Notes: Put your notes next. It might be useful to put it in a bullet-point list format. At the very least, your notes should not be a run-on sentence; either make sure you have correct line breaks or list formatting.
 
