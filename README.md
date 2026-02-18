@@ -468,5 +468,15 @@ My whole team was at GDW....
 
 # week 7
 
+## Activity 1
+Notes
+
+## Activity 2
 Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
+
+## Activity 3
+<img width="868" height="686" alt="Screenshot 2026-02-17 at 6 44 28 PM" src="https://github.com/user-attachments/assets/f94cbae2-4b00-41ba-80a1-29b199560ae9" />
+
+## Activity 4
+Proof of work, for this we wanted to use code for npc looking for scene 
 
