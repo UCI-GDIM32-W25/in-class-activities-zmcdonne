@@ -476,13 +476,13 @@ Notes
 
 
 ## Activity 2
-Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
+Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
 
 ## Activity 3
 <img width="868" height="686" alt="Screenshot 2026-02-17 at 6 44 28 PM" src="https://github.com/user-attachments/assets/f94cbae2-4b00-41ba-80a1-29b199560ae9" />
 
-## Activity 4
-Proof of work, for this we wanted to use code for npc looking for scene 
-[Link to Activity 4](https://github.com/zomffin/GDIM32-Final/commit/4ac02a4cd22259d7f4da7dfe3420b7f9d68ff9c5)
+## Activity 5
+In class i pushed a starting point code to the NPC class for the witches, started on the UI canvas. In addition to importing our 3d assets, I started placing some.
+[Link to Activity 5](https://github.com/zomffin/GDIM32-Final/commit/4ac02a4cd22259d7f4da7dfe3420b7f9d68ff9c5)
 
 
