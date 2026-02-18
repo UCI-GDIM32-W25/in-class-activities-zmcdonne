@@ -471,6 +471,10 @@ My whole team was at GDW....
 ## Activity 1
 Notes
 
+<img width="465" height="713" alt="Screenshot 2026-02-17 at 6 55 38 PM" src="https://github.com/user-attachments/assets/6a9c30d4-592a-45c9-b5ba-72d4f848892d" />
+<img width="773" height="505" alt="Screenshot 2026-02-17 at 6 55 46 PM" src="https://github.com/user-attachments/assets/1c9823c9-dfcb-4a27-80ac-e33d4c17b2c1" />
+
+
 ## Activity 2
 Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
 
@@ -479,4 +483,6 @@ Attendance: Isabel Rose Matsuno, Kristian Zhang and me
 
 ## Activity 4
 Proof of work, for this we wanted to use code for npc looking for scene 
+[Link to Activity 4](https://github.com/zomffin/GDIM32-Final/commit/4ac02a4cd22259d7f4da7dfe3420b7f9d68ff9c5)
+
 
