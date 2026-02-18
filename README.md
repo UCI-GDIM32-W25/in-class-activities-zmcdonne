@@ -466,3 +466,7 @@ My whole team was at GDW....
 [final draft document link](https://docs.google.com/document/d/1feAz1l25pgZegPoBuH0r0d7QIG4UUXJjzvnXaiCcNWw/edit?tab=t.0)
 
 
+# week 7
+
+Attendance: Isabel Rose Matsuno, Kristian Zhang and me 
+
