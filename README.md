@@ -500,6 +500,8 @@ In class i pushed a starting point code to the NPC class for the witches, starte
 Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
 
 ## Activity 3
+<img width="512" height="627" alt="Screenshot 2026-02-24 at 11 58 25 PM" src="https://github.com/user-attachments/assets/e52c63e3-950d-4d93-b6b7-7dd17a4aa56f" />
+
 
 ## Activity 4
 I started on the UI after starting a bit on the terrain and planned the level layout.
