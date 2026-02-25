@@ -500,7 +500,11 @@ In class i pushed a starting point code to the NPC class for the witches, starte
 Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
 
 ## Activity 3
-I started on the UI after starting a bit on the terrain and planned the level layout.
 
 ## Activity 4
+I started on the UI after starting a bit on the terrain and planned the level layout.
+
+## Activity 5
+[Link to Activity 5](https://github.com/zomffin/GDIM32-Final/commit/b0e1e28f84e2278997ddf55c480ec276a25a531e) We have a mergeconflict rn rip, so its not showing all up but basiclly i put in the clock png placeholder and started setting up assets.
+
 
