@@ -492,14 +492,14 @@ In class i pushed a starting point code to the NPC class for the witches, starte
 # week 8
 
 ## Activity 1
-<img width="338" height="441" alt="Screenshot 2026-02-24 at 7 27 38 PM" src="https://github.com/user-attachments/assets/51300a06-07cf-4ccd-8483-490b4f633204" />
-<img width="380" height="533" alt="Screenshot 2026-02-24 at 7 27 42 PM" src="https://github.com/user-attachments/assets/b3a8bef1-bca1-4c90-8831-534411ed6ec7" />
+<img width="512" height="627" alt="Screenshot 2026-02-24 at 11 58 25 PM" src="https://github.com/user-attachments/assets/e52c63e3-950d-4d93-b6b7-7dd17a4aa56f" />
 
 ## Activity 2
 Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
 
 ## Activity 3
-<img width="512" height="627" alt="Screenshot 2026-02-24 at 11 58 25 PM" src="https://github.com/user-attachments/assets/e52c63e3-950d-4d93-b6b7-7dd17a4aa56f" />
+<img width="338" height="441" alt="Screenshot 2026-02-24 at 7 27 38 PM" src="https://github.com/user-attachments/assets/51300a06-07cf-4ccd-8483-490b4f633204" />
+<img width="380" height="533" alt="Screenshot 2026-02-24 at 7 27 42 PM" src="https://github.com/user-attachments/assets/b3a8bef1-bca1-4c90-8831-534411ed6ec7" />
 
 ## Activity 4
 <img width="284" height="397" alt="Screenshot 2026-02-25 at 12 07 15 AM" src="https://github.com/user-attachments/assets/c8b205b7-28d3-4b1d-b873-955d495227dc" />
