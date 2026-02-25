@@ -489,3 +489,18 @@ In class i pushed a starting point code to the NPC class for the witches, starte
 [Link to Activity 5](https://github.com/zomffin/GDIM32-Final/commit/4ac02a4cd22259d7f4da7dfe3420b7f9d68ff9c5)
 
 
+# week 8
+
+## Activity 1
+<img width="338" height="441" alt="Screenshot 2026-02-24 at 7 27 38 PM" src="https://github.com/user-attachments/assets/51300a06-07cf-4ccd-8483-490b4f633204" />
+<img width="380" height="533" alt="Screenshot 2026-02-24 at 7 27 42 PM" src="https://github.com/user-attachments/assets/b3a8bef1-bca1-4c90-8831-534411ed6ec7" />
+
+
+## Activity 2
+Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
+
+## Activity 3
+I started on the UI after starting a bit on the terrain and planned the level layout.
+
+## Activity 4
+
