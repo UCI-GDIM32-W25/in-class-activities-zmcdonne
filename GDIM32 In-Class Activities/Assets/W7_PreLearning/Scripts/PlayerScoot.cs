@@ -39,7 +39,7 @@ public class PlayerScoot : MonoBehaviour
             direction += Vector3.right;
         }
 
-        transform.position += direction * _speed * Time.deltaTime;
+        transform.position += direction  * Time.deltaTime;
     }
 
     private void RunSteppedMovement ()
