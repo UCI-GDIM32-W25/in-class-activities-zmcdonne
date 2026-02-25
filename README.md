@@ -495,18 +495,18 @@ In class i pushed a starting point code to the NPC class for the witches, starte
 <img width="338" height="441" alt="Screenshot 2026-02-24 at 7 27 38 PM" src="https://github.com/user-attachments/assets/51300a06-07cf-4ccd-8483-490b4f633204" />
 <img width="380" height="533" alt="Screenshot 2026-02-24 at 7 27 42 PM" src="https://github.com/user-attachments/assets/b3a8bef1-bca1-4c90-8831-534411ed6ec7" />
 
-
 ## Activity 2
 Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
 
 ## Activity 3
 <img width="512" height="627" alt="Screenshot 2026-02-24 at 11 58 25 PM" src="https://github.com/user-attachments/assets/e52c63e3-950d-4d93-b6b7-7dd17a4aa56f" />
 
-
 ## Activity 4
-I started on the UI after starting a bit on the terrain and planned the level layout.
+<img width="284" height="397" alt="Screenshot 2026-02-25 at 12 07 15 AM" src="https://github.com/user-attachments/assets/c8b205b7-28d3-4b1d-b873-955d495227dc" />
+
 
 ## Activity 5
-[Link to Activity 5](https://github.com/zomffin/GDIM32-Final/commit/b0e1e28f84e2278997ddf55c480ec276a25a531e) We have a mergeconflict rn rip, so its not showing all up but basiclly i put in the clock png placeholder and started setting up assets.
+[Link to Activity 5](https://github.com/zomffin/GDIM32-Final/commit/b0e1e28f84e2278997ddf55c480ec276a25a531e) I started on the UI after starting a bit on the terrain and planned the level layout.
+We have a mergeconflict rn rip, so it's not showing all up, but basically I put in the clock PNG placeholder and started setting up assets.
 
 
