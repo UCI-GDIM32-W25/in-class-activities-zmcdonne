@@ -510,3 +510,24 @@ Attendance: Isabel Rose Matsuno, Kristian Zhang, and me
 We have a mergeconflict rn rip, so it's not showing all up, but basically I put in the clock PNG placeholder and started setting up assets.
 
 
+# week 9
+
+## Activity 1
+<img width="397" height="555" alt="Screenshot 2026-03-03 at 7 14 31 PM" src="https://github.com/user-attachments/assets/9265a109-9d92-40fa-b7ee-ebc5511f6603" />
+
+## Activity 2
+Attendance: Isabel Rose Matsuno, Kristian Zhang, and me 
+
+## Activity 3
+<img width="335" height="327" alt="Screenshot 2026-03-03 at 7 14 36 PM" src="https://github.com/user-attachments/assets/16efe504-e2ad-4e98-aaa9-80b7b352d89a" />
+<img width="365" height="352" alt="Screenshot 2026-03-03 at 7 14 40 PM" src="https://github.com/user-attachments/assets/84214355-ef55-48f4-b248-fa10768fdaef" />
+
+
+## Activity 4
+We look to be over halfway done. Remaining are the dialogue system, quests, NPC sprites, the main menu hero art, the romance options art, and additions to the struggle mechanics. I’m feeling pretty comfortable about it now and think that after this check-in, we’ve woken up to our progress and situation a lot more.
+
+## Activity 5
+[Link to Activity 5](https://github.com/zomffin/GDIM32-Final/commit/abfc0bbd8d1c731041ecd70ce701033dd6a2f3fe)
+In class, I added more terrain, moved the cauldron to fit the position in my level design sketch, and added a river for the fish game objects to be found in. I also fixed some UI things that were bothering me too.
+
+
